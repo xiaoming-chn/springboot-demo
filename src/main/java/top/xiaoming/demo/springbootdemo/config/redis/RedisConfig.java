@@ -1,4 +1,4 @@
-package top.xiaoming.demo.springbootdemo.config.beans.redis;
+package top.xiaoming.demo.springbootdemo.config.redis;
 
 import java.time.Duration;
 

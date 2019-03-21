@@ -1,4 +1,4 @@
-package top.xiaoming.demo.springbootdemo.config.beans.fastjson;
+package top.xiaoming.demo.springbootdemo.config.fastjson;
 
 import org.springframework.boot.autoconfigure.http.HttpMessageConverters;
 import org.springframework.context.annotation.Bean;
